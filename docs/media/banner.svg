@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Tankside legal pages: the privacy policy for the Android aquarium water-test log, in five languages">
+<title>Tankside: legal pages</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1c30"/><stop offset=".5" stop-color="#1b2a4a"/><stop offset="1" stop-color="#14408a"/></linearGradient>
+<radialGradient id="g1" cx=".06" cy="0" r=".6"><stop offset="0" stop-color="#40cec4" stop-opacity=".32"/><stop offset="1" stop-color="#40cec4" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="1" cy="1" r=".65"><stop offset="0" stop-color="#1a73e8" stop-opacity=".65"/><stop offset="1" stop-color="#1a73e8" stop-opacity="0"/></radialGradient>
+<linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#b6ece6"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".35" stop-color="#fff" stop-opacity=".04"/><stop offset="1" stop-color="#fff" stop-opacity=".14"/></linearGradient>
+<linearGradient id="wv" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#40cec4" stop-opacity=".22"/><stop offset="1" stop-color="#40cec4" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".04"/></pattern>
+<clipPath id="card"><rect width="1280" height="360" rx="28"/></clipPath>
+<clipPath id="tube"><path d="M850 104 H882 V170 a16 16 0 0 1 -32 0 Z"/></clipPath>
+<clipPath id="pc"><rect x="822" y="62" width="410" height="256" rx="20"/></clipPath>
+<mask id="tm"><text x="84" y="196" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="88" font-weight="800" letter-spacing="-2.5" fill="#fff">Tankside</text></mask>
+</defs>
+<style>
+.ring{animation:ring 10s cubic-bezier(.65,0,.25,1) infinite}
+@keyframes ring{0%,16%{transform:translateX(0.0px)}20%,36%{transform:translateX(-124.0px)}40%,56%{transform:translateX(62.0px)}60%,76%{transform:translateX(-62.0px)}80%,96%{transform:translateX(124.0px)}100%{transform:translateX(0px)}}
+.liq{animation:liq 10s ease-in-out infinite}
+@keyframes liq{0%,16%{fill:#46a27c}20%,36%{fill:#c4bd3c}40%,56%{fill:#2c7eaa}60%,76%{fill:#8fb24c}80%,96%{fill:#3d4f9f}100%{fill:#46a27c}}
+.vv{opacity:0;animation:vv 10s linear infinite}
+@keyframes vv{0%{opacity:0;transform:translateY(8px)}3%,16%{opacity:1;transform:none}19%,100%{opacity:0;transform:translateY(-8px)}}
+.tap{opacity:0;animation:tap 2s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes tap{0%,40%{opacity:0;transform:scale(.6)}50%{opacity:.9;transform:scale(.8)}80%,100%{opacity:0;transform:scale(1.5)}}
+.bb{animation:bb 2.5s ease-in infinite;opacity:0}
+@keyframes bb{0%{opacity:0;transform:translateY(0)}15%{opacity:.8}100%{opacity:0;transform:translateY(-70px)}}
+.fb{animation:fb 8s linear infinite;opacity:0}
+@keyframes fb{0%{opacity:0;transform:translateY(0)}10%{opacity:1}90%{opacity:.6}100%{opacity:0;transform:translateY(-400px)}}
+.wave{animation:wave 9s linear infinite}
+@keyframes wave{to{transform:translateX(-160px)}}
+.rv{opacity:0;animation:rv .9s cubic-bezier(.2,.7,.2,1) forwards}.d1{animation-delay:.1s}.d2{animation-delay:.3s}.d3{animation-delay:.5s}.d4{animation-delay:.7s}
+@keyframes rv{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.shine{animation:sweep 7s ease-in-out infinite}
+@keyframes sweep{0%{transform:translateX(-300px)}50%,100%{transform:translateX(720px)}}
+.drift{animation:dr 10s ease-in-out infinite alternate}
+@keyframes dr{to{transform:translate(36px,12px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.rv{opacity:1}.vv{opacity:0}.v0{opacity:1}}
+</style>
+<g clip-path="url(#card)">
+<rect width="1280" height="360" fill="url(#bg)"/>
+<rect width="1280" height="360" fill="url(#grid)"/>
+<rect class="drift" x="-80" y="-40" width="1440" height="440" fill="url(#g1)"/>
+<rect width="1280" height="360" fill="url(#g2)"/>
+<circle class="fb" style="animation-delay:0s;animation-duration:9s" cx="640" cy="380" r="4" fill="none" stroke="#9fe6df" stroke-opacity=".45"/><circle class="fb" style="animation-delay:2.5s;animation-duration:7s" cx="705" cy="380" r="2.5" fill="none" stroke="#9fe6df" stroke-opacity=".45"/><circle class="fb" style="animation-delay:5s;animation-duration:10s" cx="760" cy="380" r="3.2" fill="none" stroke="#9fe6df" stroke-opacity=".45"/><circle class="fb" style="animation-delay:1.2s;animation-duration:8s" cx="1258" cy="380" r="3" fill="none" stroke="#9fe6df" stroke-opacity=".45"/><circle class="fb" style="animation-delay:4.4s;animation-duration:6.5s" cx="1248" cy="380" r="2" fill="none" stroke="#9fe6df" stroke-opacity=".45"/><circle class="fb" style="animation-delay:6.5s;animation-duration:8.5s" cx="590" cy="380" r="2.2" fill="none" stroke="#9fe6df" stroke-opacity=".45"/>
+<g class="rv d2">
+<rect x="822" y="62" width="410" height="256" rx="20" fill="rgba(8,14,28,.55)" stroke="rgba(255,255,255,.14)"/>
+<g clip-path="url(#pc)"><g transform="translate(822 268)"><path class="wave" d="M0 22 Q 40 10 80 22 Q 120 34 160 22 Q 200 10 240 22 Q 280 34 320 22 Q 360 10 400 22 Q 440 34 480 22 Q 520 10 560 22 Q 600 34 640 22 Q 680 10 720 22 Q 760 34 800 22 Q 840 10 880 22 Q 920 34 960 22 Q 1000 10 1040 22 Q 1080 34 1120 22 V60 H0 Z" fill="url(#wv)"/></g></g>
+<text x="846" y="88" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#7fe0d6">WATER TEST</text>
+<text x="1208" y="88" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#a3abb5">TAP THE COLOUR</text>
+<g clip-path="url(#tube)"><rect class="liq" x="846" y="122" width="40" height="70" fill="#46a27c"/><rect x="846" y="118" width="40" height="6" fill="#fff" fill-opacity=".25"/><circle class="bb" style="animation-delay:0s;animation-duration:2.6s" cx="862" cy="182" r="2.2" fill="#fff" fill-opacity=".7"/><circle class="bb" style="animation-delay:0.9s;animation-duration:2.2s" cx="870" cy="182" r="1.6" fill="#fff" fill-opacity=".7"/><circle class="bb" style="animation-delay:1.7s;animation-duration:2.9s" cx="858" cy="182" r="1.3" fill="#fff" fill-opacity=".7"/><circle class="bb" style="animation-delay:2.3s;animation-duration:2.4s" cx="866" cy="182" r="1.9" fill="#fff" fill-opacity=".7"/></g>
+<path d="M850 104 H882 V170 a16 16 0 0 1 -32 0 Z" fill="url(#glass)" stroke="rgba(255,255,255,.55)" stroke-width="1.6"/>
+<rect x="844" y="98" width="44" height="8" rx="4" fill="#cfe0ff" fill-opacity=".85"/>
+<text x="1000" y="120" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#a3abb5">pH</text>
+<text class="vv v0" style="animation-delay:0s" x="1000" y="168" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="46" font-weight="700" fill="#fff">7.2</text><text class="vv" style="animation-delay:-8s" x="1000" y="168" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="46" font-weight="700" fill="#fff">6.4</text><text class="vv" style="animation-delay:-6s" x="1000" y="168" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="46" font-weight="700" fill="#fff">7.6</text><text class="vv" style="animation-delay:-4s" x="1000" y="168" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="46" font-weight="700" fill="#fff">6.8</text><text class="vv" style="animation-delay:-2s" x="1000" y="168" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="46" font-weight="700" fill="#fff">8.0</text>
+<line x1="1000" y1="184" x2="1208" y2="184" stroke="rgba(255,255,255,.12)"/>
+<rect x="846" y="214" width="50" height="46" rx="12" fill="#e3c33a"/><rect x="846" y="214" width="50" height="23.0" rx="12" fill="#fff" fill-opacity=".10"/><text x="871.0" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="12" font-weight="600" fill="#a3abb5">6.0</text><rect x="908" y="214" width="50" height="46" rx="12" fill="#c4bd3c"/><rect x="908" y="214" width="50" height="23.0" rx="12" fill="#fff" fill-opacity=".10"/><text x="933.0" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="12" font-weight="600" fill="#a3abb5">6.4</text><rect x="970" y="214" width="50" height="46" rx="12" fill="#8fb24c"/><rect x="970" y="214" width="50" height="23.0" rx="12" fill="#fff" fill-opacity=".10"/><text x="995.0" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="12" font-weight="600" fill="#a3abb5">6.8</text><rect x="1032" y="214" width="50" height="46" rx="12" fill="#46a27c"/><rect x="1032" y="214" width="50" height="23.0" rx="12" fill="#fff" fill-opacity=".10"/><text x="1057.0" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="12" font-weight="600" fill="#a3abb5">7.2</text><rect x="1094" y="214" width="50" height="46" rx="12" fill="#2c7eaa"/><rect x="1094" y="214" width="50" height="23.0" rx="12" fill="#fff" fill-opacity=".10"/><text x="1119.0" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="12" font-weight="600" fill="#a3abb5">7.6</text><rect x="1156" y="214" width="50" height="46" rx="12" fill="#3d4f9f"/><rect x="1156" y="214" width="50" height="23.0" rx="12" fill="#fff" fill-opacity=".10"/><text x="1181.0" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Mono&quot;,Consolas,Menlo,monospace" font-size="12" font-weight="600" fill="#a3abb5">8.0</text>
+<g class="ring"><rect x="1027" y="209" width="60" height="56" rx="15" fill="none" stroke="#fff" stroke-width="2.5"/>
+<circle class="tap" cx="1057.0" cy="237.0" r="16" fill="#fff" fill-opacity=".55"/></g>
+</g>
+<g class="rv d1"><rect x="84" y="70" rx="14" width="168" height="28" fill="rgba(255,255,255,.08)" stroke="rgba(255,255,255,.18)"/>
+<text x="168" y="89" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.8" fill="#cfe0ff">LEGAL PAGES</text></g>
+<g class="rv d2"><text x="84" y="196" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="88" font-weight="800" letter-spacing="-2.5" fill="url(#tx)">Tankside</text>
+<g mask="url(#tm)"><rect class="shine" x="84" y="100" width="150" height="110" fill="url(#sh)" transform="skewX(-20)"/></g></g>
+<text class="rv d3" x="86" y="242" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="25" font-weight="500" fill="#e8eaed">The privacy policy for the Android aquarium test log.</text>
+<g class="rv d4"><text x="86" y="292" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="17" font-weight="500" fill="#a3abb5" letter-spacing=".3">English <tspan fill="#7fe0d6">·</tspan> Türkçe <tspan fill="#7fe0d6">·</tspan> Deutsch <tspan fill="#7fe0d6">·</tspan> Español <tspan fill="#7fe0d6">·</tspan> Français</text>
+<rect x="500" y="272" rx="13" width="112" height="27" fill="rgba(64,206,196,.12)" stroke="rgba(64,206,196,.5)"/><text x="556" y="291" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#cff5f1">GDPR · EU</text></g>
+<rect x="1" y="1" width="1278" height="358" rx="27" fill="none" stroke="rgba(255,255,255,.10)" stroke-width="2"/>
+</g></svg>
